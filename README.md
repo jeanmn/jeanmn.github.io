@@ -1,3 +1,10 @@
+## Setup dev env
+
+1. setup mise
+2. run mise install
+3. run bundle install
+4. run bundle exec jekyll serve --watch
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jeanmn/jeanmn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
