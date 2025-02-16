@@ -1,6 +1,4 @@
 ---
-layout: default
-title: Example Page
 permalink: /example/
 ---
 
