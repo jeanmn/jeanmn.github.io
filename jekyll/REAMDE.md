@@ -9,4 +9,4 @@ https://jekyllrb.com/
 ### Steps
 1. Run `mise install` to install ruby
 2. Run `bundle` to install the gems specified in `Gemfile`
-3. Run `bundle exec jekyll serve --liveserve` to serve website locally
+3. Run `bundle exec jekyll serve --livereload` to serve website locally
