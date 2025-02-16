@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+title: Hello world!
+description: jeanmn.github.io

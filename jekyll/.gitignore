@@ -1,0 +1,6 @@
+
+# Ignore Sass cache
+.sass-cache/
+
+# Ignore Jekyll build output
+_site/
